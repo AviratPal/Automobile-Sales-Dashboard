@@ -67,7 +67,7 @@ To deliver a centralized, interactive, and visually intuitive tool for:
 - Low-performing regions flagged for targeted promotions.
 
 ## 📷 Screenshots
-![Dashboard Preview].(https://github.com/AviratPal/Automobile-Sales-Dashboard/blob/main/Sales%20Page.png)
+![Automobile Sales Dashboard Preview].(https://github.com/AviratPal/Automobile-Sales-Dashboard/blob/main/Sales%20Page.png)
 (https://github.com/AviratPal/Automobile-Sales-Dashboard/blob/main/Price%20And%20Shipping%20Page.png)
 (https://github.com/AviratPal/Automobile-Sales-Dashboard/blob/main/Decomposition%20Tree.png)
 (https://github.com/AviratPal/Automobile-Sales-Dashboard/blob/main/Drill%20Page-1.png)
