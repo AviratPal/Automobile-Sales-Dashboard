@@ -67,13 +67,7 @@ To deliver a centralized, interactive, and visually intuitive tool for:
 - Low-performing regions flagged for targeted promotions.
 
 ## 📷 Screenshots
-![Automobile Sales Dashboard Preview].(https://github.com/AviratPal/Automobile-Sales-Dashboard/blob/main/Sales%20Page.png)
-(https://github.com/AviratPal/Automobile-Sales-Dashboard/blob/main/Price%20And%20Shipping%20Page.png)
-(https://github.com/AviratPal/Automobile-Sales-Dashboard/blob/main/Decomposition%20Tree.png)
-(https://github.com/AviratPal/Automobile-Sales-Dashboard/blob/main/Drill%20Page-1.png)
-(https://github.com/AviratPal/Automobile-Sales-Dashboard/blob/main/Drill%20Through%20Page-2.png)
-(https://github.com/AviratPal/Automobile-Sales-Dashboard/blob/main/Insight%20Bot.png)
----
+![Automobile Sales Dashboard](Sales Page.png)
 
 ## 👤 Author
 **Avirat** – Aspiring Data Analyst | Python Developer | Power BI Enthusiast | Turning Data Into Stories
