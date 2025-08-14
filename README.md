@@ -67,7 +67,9 @@ To deliver a centralized, interactive, and visually intuitive tool for:
 - Low-performing regions flagged for targeted promotions.
 
 ## 📷 Screenshots
-![Automobile Sales Dashboard](Sales Page.png)
+Sales Page.png
+
+
 
 ## 👤 Author
 **Avirat** – Aspiring Data Analyst | Python Developer | Power BI Enthusiast | Turning Data Into Stories
