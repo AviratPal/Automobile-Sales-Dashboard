@@ -67,11 +67,15 @@ To deliver a centralized, interactive, and visually intuitive tool for:
 - Low-performing regions flagged for targeted promotions.
 
 ## 📷 Screenshots
-(https://github.com/AviratPal/Automobile-Sales-Dashboard/blob/ed74df61a7cf7e8f81fce022570ff03715602077/Sales%20Page.png)
 <img width="1511" height="847" alt="Sales Page" src="https://github.com/user-attachments/assets/24dfb080-2a60-4507-b2c8-0ae98941954d" />
+<img width="1516" height="840" alt="Price And Shipping Page" src="https://github.com/user-attachments/assets/14c59d0b-b42f-4480-9156-b17730b38b15" />
+<img width="1509" height="847" alt="Decomposition Tree" src="https://github.com/user-attachments/assets/6be887ef-3ac9-4a0c-aaab-fce2cd6e4ea1" />
+<img width="1520" height="849" alt="Drill Page-1" src="https://github.com/user-attachments/assets/249b9399-a0c4-430c-8898-66da04c836a4" />
+<img width="1330" height="748" alt="Drill Through Page-2" src="https://github.com/user-attachments/assets/7d3516fd-8c40-4ccd-aa13-f33e1fe048a0" />
+<img width="1513" height="843" alt="Insight Bot" src="https://github.com/user-attachments/assets/3dbcf8de-aec3-491f-85a2-d9b0ba88250f" />
 
-
-
+## Demo
+https://github.com/user-attachments/assets/f0d19e13-00a1-44da-8aef-4e421d3fc97d
 ## 👤 Author
 **Avirat** – Aspiring Data Analyst | Python Developer | Power BI Enthusiast | Turning Data Into Stories
 
