@@ -68,6 +68,7 @@ To deliver a centralized, interactive, and visually intuitive tool for:
 
 ## 📷 Screenshots
 (https://github.com/AviratPal/Automobile-Sales-Dashboard/blob/ed74df61a7cf7e8f81fce022570ff03715602077/Sales%20Page.png)
+<img width="1511" height="847" alt="Sales Page" src="https://github.com/user-attachments/assets/24dfb080-2a60-4507-b2c8-0ae98941954d" />
 
 
 
